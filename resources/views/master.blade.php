@@ -12,7 +12,7 @@
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/bootstrap.css">
     <script src="js/bootstrap.js"></script>
-    <title>Todo List</title>
+    <title>My Todo List</title>
 </head>
 <body dir="rtl">
 <section class="vh-100 gradient-custom">
